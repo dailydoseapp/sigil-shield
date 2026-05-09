@@ -14,7 +14,7 @@ import {
 import { toast } from "sonner";
 
 const API_URL =
-  "https://e228bc17-3450-4ab5-a4de-e08fa08a3395-00-130ob3r959u1j.picard.replit.dev/api/cloak";
+  "https://dailydosetanks--sigil-engine-serve.modal.run/api/cloak";
 
 type Phase = "idle" | "processing" | "done";
 
